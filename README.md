@@ -3,7 +3,7 @@
 🌟 With a love for problem-solving and a keen eye for detail, I specialize in crafting robust Python solutions to drive seamless and efficient application functionality. 🚀 #CodeArt #PythonMagic
 
 🌱 I'm a Python enthusiast currently exploring the world of data science and machine learning, focusing on Python & TensorFlow. I'm open to collaboration and job opportunities.
-
+I am confident in Python-based technology and possess a thorough understanding of the methods of design and construction of projects, enabling me to create high-quality program code for any project tasks
 📫 Feel free to reach out to me through my email: jidris64@yahoo.com.
 
 ⚡ Fun fact: I love solving complex coding challenges and puzzles.
