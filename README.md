@@ -33,6 +33,31 @@ A sleek, responsive landing page for a fictional fitness service. Focuses on lay
 
 ---
 
+🧠 Mental Fitness Tracker
+A simple yet powerful web application that helps users track their emotional well-being, express daily gratitude, and stay inspired all in one interface.
+
+This project was built to reinforce my understanding of localStorage, cookies, session handling, and frontend design while learning FastAPI and modern JavaScript development practices.
+
+🌟 Features
+📊 Mood Slider with Emoji Feedback
+
+🙏 Gratitude Journal (saved with localStorage)
+
+✨ Daily Motivational Quotes (from Quotable API)
+
+🌙 Light/Dark Theme Toggle (persisted with cookies)
+
+📈 Dashboard with Entry Count, Mood Average & Streak
+
+⌨️ Keyboard Shortcuts for quick journaling
+
+🔐 Session-based experience (future-ready)
+
+https://github.com/jidris-spec/Mental-Fitness-Tracker.git
+netlify
+https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/
+
+
 #### 🎉 Birthday Card  
 **Tech Stack:** HTML, Sass  
 A creative digital birthday card styled using Sass for modular, maintainable, and visually appealing design.  
