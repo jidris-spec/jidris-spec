@@ -74,7 +74,7 @@ A full-featured dashboard for managing job applications — from applied to hire
 - 📂 CSV export for records  
 - ⚙️ Data stored via JSON Server or localStorage  
 
-🔗 **Live Demo:** [https://job-tracker-idris.vercel.app/](https://job-tracker-idris.vercel.app/)  
+🔗 **Live Demo:** https://vercel.com/idris-projects-508cd8f1?repo=https://github.com/jidris-spec/Job-Tracker-
 💻 **GitHub Repo:** [https://github.com/jidris-spec/Job-Tracker](https://github.com/jidris-spec/Job-Tracker)
 
 ---
