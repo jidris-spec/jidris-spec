@@ -28,7 +28,7 @@ A sleek, responsive landing page for a fictional fitness service focusing on lay
 - Mobile-first & fully responsive  
 - Accessibility best practices  
 
-🔗 **Live Demo:** [https://startling-bienenstitch-e62c26.netlify.app/](https://startling-bienenstitch-e62c26.netlify.app/)  
+🔗 **Live Demo:** https://vercel.com/idris-projects-508cd8f1?repo=https://github.com/jidris-spec/Job-Tracker- 
 💻 **GitHub Repo:** [https://github.com/jidris-spec/Landing-page](https://github.com/jidris-spec/Landing-page)
 
 ---
