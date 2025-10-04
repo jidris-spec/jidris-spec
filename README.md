@@ -43,7 +43,7 @@ A meaningful app that helps users track moods, gratitude, and motivation — bui
 - 🌙 Light/Dark theme toggle (persisted with cookies)  
 - 📈 Dashboard showing mood averages and streaks  
 
-🔗 **Live Demo:** [https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/](https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/)  
+🔗 **Live Demo:** https://timely-lebkuchen-2eab9b.netlify.app/
 💻 **GitHub Repo:** [https://github.com/jidris-spec/Mental-Fitness-Tracker](https://github.com/jidris-spec/Mental-Fitness-Tracker)
 
 ---
