@@ -58,7 +58,7 @@ A modern news dashboard that fetches real-time articles using the News API. Incl
 - **Bookmark system** with localStorage persistence  
 - Responsive, mobile-friendly interface  
 
-🔗 **Live Demo:** [https://jidris-news-reader.netlify.app/](https://jidris-news-reader.netlify.app/)  
+🔗 **Live Demo:**  https://news-publish.netlify.app/
 💻 **GitHub Repo:** [https://github.com/jidris-spec/News-Reader](https://github.com/jidris-spec/News-Reader)
 
 ---
