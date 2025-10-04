@@ -1,107 +1,81 @@
-👋 Hello! I'm Akinsanya Idris
+# 👋 Hello! I'm Akinsanya Idris
 
-🚀 I’m a passionate and motivated frontend developer in training, currently completing a bootcamp.  
-💡 I love building responsive websites and turning ideas into clean, interactive interfaces.  
-📍 Based in Romania  
-📫 Reach me at: [jidris64@gmail.com](mailto:jidris64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/)
-
-
-🛠️ Tech Stack
-
-- Core Skills:** HTML, CSS, Responsive Design, Git & GitHub  
-- Basic JavaScript:** DOM manipulation, simple interactivity  
-- **Styling Tools:** Sass (SCSS), Flexbox, CSS Grid  
-- **Other Tools (Beginner Level):** WordPress, Django, PostgreSQL  
-- **Currently Learning:** JavaScript fundamentals, React basics  
+🚀 I’m a passionate **frontend developer** who loves crafting clean, responsive, and interactive web interfaces.  
+💡 Currently enhancing my skills through **hands-on projects** that combine creativity with functionality.  
+📍 Based in **Romania**  
+📫 Reach me: [jidris64@gmail.com](mailto:jidris64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) | [GitHub](https://github.com/jidris-spec)
 
 ---
 
-### 📂 Projects
+## 🛠️ Tech Stack
 
-#### 🎯 FlexiFit — Fitness Coaching Landing Page  
+- **Core Skills:** HTML, CSS, Responsive Design, Git & GitHub  
+- **JavaScript:** DOM Manipulation, Event Handling, Basic Interactivity  
+- **Styling Tools:** Sass (SCSS), Flexbox, CSS Grid  
+- **Additional Tools (Beginner Level):** WordPress, Django, PostgreSQL  
+- **Currently Learning:** Modern JavaScript (ES6+), React.js fundamentals  
+
+---
+
+## 📂 Projects
+
+### 🎯 [FlexiFit — Fitness Coaching Landing Page](https://github.com/jidris-spec/Landing-page)
 **Tech Stack:** HTML, CSS (Flexbox & Grid)  
-A sleek, responsive landing page for a fictional fitness service. Focuses on layout structure, accessibility, and user experience. Includes hero, services, testimonials, and contact form.
+A sleek, responsive landing page for a fictional fitness service focusing on layout structure, accessibility, and smooth design.
 
 **Highlights:**
-- Built with Flexbox & CSS Grid  
+- Built with Flexbox & Grid  
 - Mobile-first & fully responsive  
 - Accessibility best practices  
 
-🔗 [Repo](https://github.com/jidris-spec/Landing-page)  
-🔗 [Live (GitHub Pages)](https://jidris-spec.github.io/Landing-page/)  
-🔗 [Live (Netlify)](https://startling-bienenstitch-e62c26.netlify.app/)
+🔗 [Live on Netlify](https://startling-bienenstitch-e62c26.netlify.app/)
 
 ---
 
-🧠 Mental Fitness Tracker
-A simple yet powerful web application that helps users track their emotional well-being, express daily gratitude, and stay inspired all in one interface.
+### 🧠 [Mental Fitness Tracker](https://github.com/jidris-spec/Mental-Fitness-Tracker.git)
+A meaningful app that helps users track moods, gratitude, and motivation — built to reinforce frontend design, localStorage, and API integration while learning FastAPI and JavaScript.
 
-This project was built to reinforce my understanding of localStorage, cookies, session handling, and frontend design while learning FastAPI and modern JavaScript development practices.
+**Features:**
+- 📊 Mood slider with emoji feedback  
+- 🙏 Gratitude journal (saved with localStorage)  
+- ✨ Daily motivational quotes (via Quotable API)  
+- 🌙 Light/Dark theme toggle (persisted with cookies)  
+- 📈 Dashboard showing mood averages and streaks  
 
-🌟 Features
-📊 Mood Slider with Emoji Feedback
-
-🙏 Gratitude Journal (saved with localStorage)
-
-✨ Daily Motivational Quotes (from Quotable API)
-
-🌙 Light/Dark Theme Toggle (persisted with cookies)
-
-📈 Dashboard with Entry Count, Mood Average & Streak
-
-⌨️ Keyboard Shortcuts for quick journaling
-
-🔐 Session-based experience (future-ready)
-
-https://github.com/jidris-spec/Mental-Fitness-Tracker.git
-netlify
-https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/
-
-
-#### 🎉 Birthday Card  
-**Tech Stack:** HTML, Sass  
-A creative digital birthday card styled using Sass for modular, maintainable, and visually appealing design.  
-
-🔗 [Repo](https://github.com/jidris-spec/birthday-card)
+🔗 [Live on Netlify](https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/)
 
 ---
 
-#### ☀️ Weather App  
-**Tech Stack:** HTML, CSS  
-**Design Source:** Figma  
-Responsive weather forecast UI based on a Figma mockup. Emphasizes CSS Grid layout and modern visual design.  
-
-🔗 [Repo](https://github.com/jidris-spec/jidris-spec-Figma-Grid.scss)
-
----
-
-#### 🏠 Bootcamp Homepage Clone  
+### 📰 [News Reader App](https://github.com/jidris-spec/News-Reader)
 **Tech Stack:** HTML, CSS, JavaScript  
-A clone of the official Beetroot Academy homepage, rebuilt using core frontend skills. Demonstrates layout accuracy and simple interactivity.
-
-🔗 [Repo](https://github.com/jidris-spec/Bootcamp-homepage)
-
----
-
-#### 📱 Responsive Web Design Project  
-**Tech Stack:** HTML, CSS  
-A mobile-first project that adapts seamlessly across devices using media queries and modern CSS techniques.
+A modern news dashboard that fetches real-time articles using the News API. Includes category filters, dark/light mode, and article bookmarking.
 
 **Highlights:**
-- Mobile-first approach  
-- Fully responsive with media queries  
+- Integrated **News API** for dynamic content  
+- **Dark/Light mode** toggle  
+- **Bookmark system** with localStorage persistence  
+- Responsive, mobile-friendly interface  
 
-🔗 [Repo](https://github.com/jidris-spec/Responsive-Web-Design)
+🔗 [Live on Netlify](https://jidris-news-reader.netlify.app/)
+
+---
+
+### 💼 [Job Application Tracker](https://github.com/jidris-spec/Job-Tracker)
+**Tech Stack:** React, Vite, Material UI, Recharts  
+A full-featured dashboard for managing job applications — from applied to hired — with analytics and CRUD operations.
+
+**Highlights:**
+- 📋 Add, edit, and delete applications  
+- 📊 KPI dashboard with charts (Recharts)  
+- 🌙 Theme toggle (light/dark persisted)  
+- 📂 CSV export for records  
+- ⚙️ Data stored via JSON Server or localStorage  
+
+🔗 [Live on Vercel](https://job-tracker-idris.vercel.app/)
 
 ---
 
-#### 🧱 Grid Layout Showcase  
-**Tech Stack:** HTML, CSS (CSS Grid)  
-A layout exploration project using CSS Grid. Demonstrates complex item positioning, overlapping elements, and visual hierarchy.  
-
-🔗 [Repo](https://github.com/jidris-spec/-Grid-Layout-Showcase)
-
----
+## 💬 Let’s Connect  
 
 Thanks for checking out my projects!  
-Feel free to connect or reach out — I’m always open to feedback, collaboration, or learning opportunities.
+I’m always open to **collaboration, feedback, or internship opportunities** that will help me grow as a frontend developer.
