@@ -19,7 +19,7 @@
 
 ## 📂 Projects
 
-### 🎯 [FlexiFit — Fitness Coaching Landing Page](https://github.com/jidris-spec/Landing-page)
+### 🎯 FlexiFit — Fitness Coaching Landing Page  
 **Tech Stack:** HTML, CSS (Flexbox & Grid)  
 A sleek, responsive landing page for a fictional fitness service focusing on layout structure, accessibility, and smooth design.
 
@@ -28,11 +28,12 @@ A sleek, responsive landing page for a fictional fitness service focusing on lay
 - Mobile-first & fully responsive  
 - Accessibility best practices  
 
-🔗 [Live on Netlify](https://startling-bienenstitch-e62c26.netlify.app/)
+🔗 **Live Demo:** [https://startling-bienenstitch-e62c26.netlify.app/](https://startling-bienenstitch-e62c26.netlify.app/)  
+💻 **GitHub Repo:** [https://github.com/jidris-spec/Landing-page](https://github.com/jidris-spec/Landing-page)
 
 ---
 
-### 🧠 [Mental Fitness Tracker](https://github.com/jidris-spec/Mental-Fitness-Tracker.git)
+### 🧠 Mental Fitness Tracker  
 A meaningful app that helps users track moods, gratitude, and motivation — built to reinforce frontend design, localStorage, and API integration while learning FastAPI and JavaScript.
 
 **Features:**
@@ -42,11 +43,12 @@ A meaningful app that helps users track moods, gratitude, and motivation — bui
 - 🌙 Light/Dark theme toggle (persisted with cookies)  
 - 📈 Dashboard showing mood averages and streaks  
 
-🔗 [Live on Netlify](https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/)
+🔗 **Live Demo:** [https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/](https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/)  
+💻 **GitHub Repo:** [https://github.com/jidris-spec/Mental-Fitness-Tracker](https://github.com/jidris-spec/Mental-Fitness-Tracker)
 
 ---
 
-### 📰 [News Reader App](https://github.com/jidris-spec/News-Reader)
+### 📰 News Reader App  
 **Tech Stack:** HTML, CSS, JavaScript  
 A modern news dashboard that fetches real-time articles using the News API. Includes category filters, dark/light mode, and article bookmarking.
 
@@ -56,11 +58,12 @@ A modern news dashboard that fetches real-time articles using the News API. Incl
 - **Bookmark system** with localStorage persistence  
 - Responsive, mobile-friendly interface  
 
-🔗 [Live on Netlify](https://jidris-news-reader.netlify.app/)
+🔗 **Live Demo:** [https://jidris-news-reader.netlify.app/](https://jidris-news-reader.netlify.app/)  
+💻 **GitHub Repo:** [https://github.com/jidris-spec/News-Reader](https://github.com/jidris-spec/News-Reader)
 
 ---
 
-### 💼 [Job Application Tracker](https://github.com/jidris-spec/Job-Tracker)
+### 💼 Job Application Tracker  
 **Tech Stack:** React, Vite, Material UI, Recharts  
 A full-featured dashboard for managing job applications — from applied to hired — with analytics and CRUD operations.
 
@@ -71,7 +74,8 @@ A full-featured dashboard for managing job applications — from applied to hire
 - 📂 CSV export for records  
 - ⚙️ Data stored via JSON Server or localStorage  
 
-🔗 [Live on Vercel](https://job-tracker-idris.vercel.app/)
+🔗 **Live Demo:** [https://job-tracker-idris.vercel.app/](https://job-tracker-idris.vercel.app/)  
+💻 **GitHub Repo:** [https://github.com/jidris-spec/Job-Tracker](https://github.com/jidris-spec/Job-Tracker)
 
 ---
 
