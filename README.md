@@ -63,7 +63,7 @@ Uses design patterns: components, routing, protected routes, reusable UI system.
 
 Strong focus on UX and micro-interactions (skeleton loaders, status updates, instant UI feedback).
 
-💻 GitHub Repo:  https://github.com/jidris-spec
+💻 GitHub Repo:  https://github.com/jidris-spec/Digital-Health-Record.git
 🌐 Live Demo:  https://strong-arithmetic-7ad9fb.netlify.app/
 
 ### 🎯 FlexiFit — Fitness Coaching Landing Page  
