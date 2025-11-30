@@ -63,8 +63,8 @@ Uses design patterns: components, routing, protected routes, reusable UI system.
 
 Strong focus on UX and micro-interactions (skeleton loaders, status updates, instant UI feedback).
 
-💻 GitHub Repo:  https://lnkd.in/dMyDpaQK
-🌐 Live Demo:  https://lnkd.in/d9fN8wiG
+💻 GitHub Repo:  https://github.com/jidris-spec
+🌐 Live Demo:  https://strong-arithmetic-7ad9fb.netlify.app/
 
 ### 🎯 FlexiFit — Fitness Coaching Landing Page  
 **Tech Stack:** HTML, CSS (Flexbox & Grid)  
