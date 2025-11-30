@@ -5,7 +5,7 @@
 
 📫 Reach me: [jidris64@gmail.com](mailto:jidris64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) | [GitHub](https://github.com/jidris-spec)
 
----
+ ⏱ Coding Activity (WakaTime) https://wakatime.com/@jidris64
 
 ## 🛠️ Tech Stack
 
