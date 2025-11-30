@@ -2,7 +2,7 @@
 
 🚀 I’m a passionate **frontend developer** who loves crafting clean, responsive, and interactive web interfaces.  
 💡 Currently enhancing my skills through **hands-on projects** that combine creativity with functionality.  
-📍 Based in **Romania**  
+
 📫 Reach me: [jidris64@gmail.com](mailto:jidris64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) | [GitHub](https://github.com/jidris-spec)
 
 ---
