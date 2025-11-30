@@ -19,6 +19,53 @@
 
 ## 📂 Projects
 
+💊 Digital Health Record Application
+
+Tech Stack: React, MUI, React Router
+A patient–doctor–admin platform that simulates a real digital health workflow with lifecycle-driven data, progress tracking, and multi-role dashboards.
+
+Core Features
+
+🧑‍⚕️ Patient & Doctor Authentication
+Separate login flows for patients, doctors, and admin.
+
+📝 Patient Case Submission
+Patients submit their symptoms, upload documents, and track treatment progress.
+
+🔍 Doctor Workspace
+Doctors view assigned patients, review cases, update progress, and upload medical reports.
+
+📊 Dashboard with Healthcare KPIs
+KPI cards for Patients, Appointments, and Lab Results — with skeleton loaders for micro-interactions.
+
+🗂️ Case Lifecycle Management
+open → in_review → closed, with automatic activity logs across the system.
+
+📤 Document Uploads
+Both patients and doctors can upload PDFs and view attachments.
+
+🕒 Recent Activity Feed
+Automatically logs everything: new cases, progress updates, lab results, status changes.
+
+🧭 Breadcrumb Navigation + Micro-interactions
+For smoother navigation and real usability (loading states, transitions, instant feedback).
+
+🔒 Admin Panel
+Admin can access all patients, doctors, cases, and system activity.
+
+What Makes This Project Stand Out
+
+Built with real system thinking — not a basic CRUD.
+
+Data flows through the entire app just like in medical software.
+
+Uses design patterns: components, routing, protected routes, reusable UI system.
+
+Strong focus on UX and micro-interactions (skeleton loaders, status updates, instant UI feedback).
+
+💻 GitHub Repo:  https://lnkd.in/dMyDpaQK
+🌐 Live Demo:  https://lnkd.in/d9fN8wiG
+
 ### 🎯 FlexiFit — Fitness Coaching Landing Page  
 **Tech Stack:** HTML, CSS (Flexbox & Grid)  
 A sleek, responsive landing page for a fictional fitness service focusing on layout structure, accessibility, and smooth design.
