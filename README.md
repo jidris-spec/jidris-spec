@@ -1,132 +1,58 @@
-# 👋 Hello! I'm Akinsanya Idris
+# Idris Akinsanya
 
-🚀 I’m a passionate **frontend developer** who loves crafting clean, responsive, and interactive web interfaces.  
-💡 Currently enhancing my skills through **hands-on projects** that combine creativity with functionality.  
+**Frontend Developer** — Bucharest, Romania · Open to EU roles & relocation
 
-📫 Reach me: [jidris64@gmail.com](mailto:jidris64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) | [GitHub](https://github.com/jidris-spec)
-
- ⏱ Coding Activity (WakaTime) https://wakatime.com/@jidris64
-
-## 🛠️ Tech Stack
-
-- **Core Skills:** HTML, CSS, Responsive Design, Git & GitHub  
-- **JavaScript:** DOM Manipulation, Event Handling, Basic Interactivity  
-- **Styling Tools:** Sass (SCSS), Flexbox, CSS Grid  
-- **Additional Tools (Beginner Level):** WordPress, Django, PostgreSQL  
-- **Currently Learning:** Modern JavaScript (ES6+), React.js fundamentals  
+I build web interfaces where the logic is as clear as the layout. Currently focused on multi-role platforms, deadline-critical tools, and data presentation that doesn't require a manual to understand.
 
 ---
 
-## 📂 Projects
+## Projects
 
-💊 Digital Health Record Application
+### [MedFind](https://github.com/jidris-spec/medical-finder) — Healthcare Platform
+`React` `Firebase` `Tailwind` `Vite` · [Live →](https://your-medfind-url.vercel.app)
 
-Tech Stack: React, MUI, React Router
-A patient–doctor–admin platform that simulates a real digital health workflow with lifecycle-driven data, progress tracking, and multi-role dashboards.
-
-Core Features
-
-🧑‍⚕️ Patient & Doctor Authentication
-Separate login flows for patients, doctors, and admin.
-
-📝 Patient Case Submission
-Patients submit their symptoms, upload documents, and track treatment progress.
-
-🔍 Doctor Workspace
-Doctors view assigned patients, review cases, update progress, and upload medical reports.
-
-📊 Dashboard with Healthcare KPIs
-KPI cards for Patients, Appointments, and Lab Results — with skeleton loaders for micro-interactions.
-
-🗂️ Case Lifecycle Management
-open → in_review → closed, with automatic activity logs across the system.
-
-📤 Document Uploads
-Both patients and doctors can upload PDFs and view attachments.
-
-🕒 Recent Activity Feed
-Automatically logs everything: new cases, progress updates, lab results, status changes.
-
-🧭 Breadcrumb Navigation + Micro-interactions
-For smoother navigation and real usability (loading states, transitions, instant feedback).
-
-🔒 Admin Panel
-Admin can access all patients, doctors, cases, and system activity.
-
-What Makes This Project Stand Out
-
-Built with real system thinking — not a basic CRUD.
-
-Data flows through the entire app just like in medical software.
-
-Uses design patterns: components, routing, protected routes, reusable UI system.
-
-Strong focus on UX and micro-interactions (skeleton loaders, status updates, instant UI feedback).
-
-💻 GitHub Repo:  https://github.com/jidris-spec/Digital-Health-Record.git
-🌐 Live Demo:  https://strong-arithmetic-7ad9fb.netlify.app/
-
-### 🎯 FlexiFit — Fitness Coaching Landing Page  
-**Tech Stack:** HTML, CSS (Flexbox & Grid)  
-A sleek, responsive landing page for a fictional fitness service focusing on layout structure, accessibility, and smooth design.
-
-**Highlights:**
-- Built with Flexbox & Grid  
-- Mobile-first & fully responsive  
-- Accessibility best practices  
-
-🔗 **Live Demo:** https://vercel.com/idris-projects-508cd8f1?repo=https://github.com/jidris-spec/Job-Tracker- 
-💻 **GitHub Repo:** [https://github.com/jidris-spec/Landing-page](https://github.com/jidris-spec/Landing-page)
+Multi-role platform (Patient, Doctor, Pharmacy, Admin) with real-time medicine availability tracking. Built a request–claim–confirm loop that surfaces live inventory state across roles. Crowdsourced availability model with confidence scoring based on recency and outcome ratios. Pitched at Techstars Startup Weekend.
 
 ---
 
-### 🧠 Mental Fitness Tracker  
-A meaningful app that helps users track moods, gratitude, and motivation — built to reinforce frontend design, localStorage, and API integration while learning FastAPI and JavaScript.
+### [Work Permit Tracker](https://github.com/jidris-spec/work-permit-tracker) — Deadline Management Tool
+`React` `localStorage` `multilingual`
 
-**Features:**
-- 📊 Mood slider with emoji feedback  
-- 🙏 Gratitude journal (saved with localStorage)  
-- ✨ Daily motivational quotes (via Quotable API)  
-- 🌙 Light/Dark theme toggle (persisted with cookies)  
-- 📈 Dashboard showing mood averages and streaks  
-
-🔗 **Live Demo:** https://timely-lebkuchen-2eab9b.netlify.app/
-💻 **GitHub Repo:** [https://github.com/jidris-spec/Mental-Fitness-Tracker](https://github.com/jidris-spec/Mental-Fitness-Tracker)
+Built for foreign workers in Romania managing IGI permit renewal timelines. Features a Permit Type Router, visual deadline timeline, action checklists, and Employer Mode. Deadline-critical by design — a missed date has real legal consequences.
 
 ---
 
-### 📰 News Reader App  
-**Tech Stack:** HTML, CSS, JavaScript  
-A modern news dashboard that fetches real-time articles using the News API. Includes category filters, dark/light mode, and article bookmarking.
+### [Job Application Tracker](https://github.com/jidris-spec/Job-Tracker) — Dashboard
+`React` `Vite` `Material UI` `Recharts` · [Live →](https://job-tracker-gilt-nine.vercel.app)
 
-**Highlights:**
-- Integrated **News API** for dynamic content  
-- **Dark/Light mode** toggle  
-- **Bookmark system** with localStorage persistence  
-- Responsive, mobile-friendly interface  
-
-🔗 **Live Demo:**  https://news-publish.netlify.app/
-💻 **GitHub Repo:** [https://github.com/jidris-spec/News-Reader](https://github.com/jidris-spec/News-Reader)
+Full-featured dashboard for tracking job applications from applied to hired. KPI cards, Recharts analytics, CSV export, dark/light theme, localStorage persistence.
 
 ---
 
-### 💼 Job Application Tracker  
-**Tech Stack:** React, Vite, Material UI, Recharts  
-A full-featured dashboard for managing job applications — from applied to hired — with analytics and CRUD operations.
+### [Digital Health Record](https://github.com/jidris-spec/Digital-Health-Record) — Clinical Workflow Platform
+`React` `MUI` `React Router` · [Live →](https://strong-arithmetic-7ad9fb.netlify.app)
 
-**Highlights:**
-- 📋 Add, edit, and delete applications  
-- 📊 KPI dashboard with charts (Recharts)  
-- 🌙 Theme toggle (light/dark persisted)  
-- 📂 CSV export for records  
-- ⚙️ Data stored via JSON Server or localStorage  
-
-🔗 **Live Demo:**    https://job-tracker-gilt-nine.vercel.app/
-💻 **GitHub Repo:** [https://github.com/jidris-spec/Job-Tracker](https://github.com/jidris-spec/Job-Tracker)
+Patient–doctor–admin platform with case lifecycle management (`open → in_review → closed`), automatic activity logs, document uploads, and skeleton loaders. Built around real system thinking, not basic CRUD.
 
 ---
 
-## 💬 Let’s Connect  
+### [News Reader App](https://github.com/jidris-spec/News-Reader) — API Dashboard
+`HTML` `CSS` `JavaScript` · [Live →](https://news-publish.netlify.app)
 
-Thanks for checking out my projects!  
-I’m always open to **collaboration, feedback, or internship opportunities** that will help me grow as a frontend developer.
+Real-time news dashboard using the News API. Category filters, dark/light mode, bookmark system with localStorage.
+
+---
+
+## Stack
+
+**Daily:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind · Firebase · Vite  
+**Tooling:** Git · Vercel · Netlify · VS Code · pnpm · Browser DevTools  
+**Familiar:** localStorage · REST APIs · React Router · Recharts · Material UI
+
+---
+
+## Contact
+
+[jidris64@gmail.com](mailto:jidris64@gmail.com) · [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) · [WakaTime](https://wakatime.com/@jidris64)
+
+EU work authorisation · Available for remote and Romania-based roles
