@@ -29,7 +29,9 @@ Built for foreign workers in Romania to track legal grace periods after job loss
 ### Job Application Tracker
 
 React · Vite · Material UI · Recharts
-Live: https://job-tracker-gilt-nine.vercel.app
+Live: https: https://job-tracker-2y7gpazeo-idris-projects-508cd8f1.vercel.app/
+
+
 
 Frontend dashboard for managing job applications and interview pipelines. Includes filtering, analytics dashboards, CSV export, dark/light mode, and reusable component architecture.
 
