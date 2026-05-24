@@ -1,58 +1,58 @@
 # Idris Akinsanya
 
-**Frontend Developer** — Bucharest, Romania · Open to EU roles & relocation
+Frontend Developer — Bucharest, Romania · Open to internships, junior roles, and relocation opportunities within the EU
 
-I build web interfaces where the logic is as clear as the layout. Currently focused on multi-role platforms, deadline-critical tools, and data presentation that doesn't require a manual to understand.
+I build workflow-focused frontend applications with practical real-world use cases. My projects focus on state-driven interfaces, multi-role systems, and tools where clarity and reliability matter.
 
 ---
 
 ## Projects
 
-### [MedFind](https://github.com/jidris-spec/medical-finder) — Healthcare Platform
-`React` `Firebase` `Tailwind` `Vite` · [Live →](https://your-medfind-url.vercel.app)
+### MedFind — Healthcare Coordination Platform
 
-Multi-role platform (Patient, Doctor, Pharmacy, Admin) with real-time medicine availability tracking. Built a request–claim–confirm loop that surfaces live inventory state across roles. Crowdsourced availability model with confidence scoring based on recency and outcome ratios. Pitched at Techstars Startup Weekend.
+React · Firebase · Tailwind · Vite
+GitHub: https://github.com/jidris-spec/medical-finder
 
----
-
-### [Work Permit Tracker](https://github.com/jidris-spec/work-permit-tracker) — Deadline Management Tool Live -> https://legal-stay-tracker.netlify.app/
-`React` `localStorage` `multilingual`
-
-Built for foreign workers in Romania managing IGI permit renewal timelines. Features a Permit Type Router, visual deadline timeline, action checklists, and Employer Mode. Deadline-critical by design — a missed date has real legal consequences.
+Multi-role platform connecting patients, pharmacies, doctors, and administrators through real-time medicine request workflows. Designed a request–claim–confirm system with live availability tracking and crowdsourced inventory signals. Pitched during Techstars Startup Weekend Bucharest.
 
 ---
 
-### [Job Application Tracker](https://github.com/jidris-spec/Job-Tracker) — Dashboard
-`React` `Vite` `Material UI` `Recharts` · [Live →](https://job-tracker-gilt-nine.vercel.app)
+### Stay Legal Romania — Work Permit Tracker
 
-Full-featured dashboard for tracking job applications from applied to hired. KPI cards, Recharts analytics, CSV export, dark/light theme, localStorage persistence.
+React · localStorage · multilingual support
+Live: https://legal-stay-tracker.netlify.app/
 
----
-
-### [Digital Health Record](https://github.com/jidris-spec/Digital-Health-Record) — Clinical Workflow Platform
-`React` `MUI` `React Router` · [Live →](https://strong-arithmetic-7ad9fb.netlify.app)
-
-Patient–doctor–admin platform with case lifecycle management (`open → in_review → closed`), automatic activity logs, document uploads, and skeleton loaders. Built around real system thinking, not basic CRUD.
+Built for foreign workers in Romania to track legal grace periods after job loss. Features permit-specific deadline calculations, status transitions (SAFE / WARNING / RISK), visual timelines, and action-based guidance flows.
 
 ---
 
-### [News Reader App](https://github.com/jidris-spec/News-Reader) — API Dashboard
-`HTML` `CSS` `JavaScript` · [Live →](https://news-publish.netlify.app)
+### Job Application Tracker
 
-Real-time news dashboard using the News API. Category filters, dark/light mode, bookmark system with localStorage.
+React · Vite · Material UI · Recharts
+Live: https://job-tracker-gilt-nine.vercel.app
+
+Frontend dashboard for managing job applications and interview pipelines. Includes filtering, analytics dashboards, CSV export, dark/light mode, and reusable component architecture.
 
 ---
 
-## Stack
+### Digital Health Record Platform
 
-**Daily:** React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind · Firebase · Vite  
-**Tooling:** Git · Vercel · Netlify · VS Code · pnpm · Browser DevTools  
-**Familiar:** localStorage · REST APIs · React Router · Recharts · Material UI
+React · Material UI · React Router
+
+Workflow-focused patient management platform supporting patient, doctor, and admin roles. Includes case lifecycle management, activity logs, document handling, loading states, and role-based UI flows.
+
+---
+
+## Tech Stack
+
+React · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Firebase · Vite · Git/GitHub · REST APIs · Material UI · Recharts
 
 ---
 
 ## Contact
 
-[jidris64@gmail.com](mailto:jidris64@gmail.com) · [LinkedIn](https://www.linkedin.com/in/idris-akinsanya-b221b7242/) · [WakaTime](https://wakatime.com/@jidris64)
+GitHub: https://github.com/jidris-spec
+LinkedIn: https://www.linkedin.com/in/idris-akinsanya-b221b7242/
+Email: [jidris64@gmail.com](mailto:jidris64@gmail.com)
 
-EU work authorisation · Available for remote and Romania-based roles
+Based in Bucharest, Romania
