@@ -15,7 +15,7 @@ Multi-role platform (Patient, Doctor, Pharmacy, Admin) with real-time medicine a
 
 ---
 
-### [Work Permit Tracker](https://github.com/jidris-spec/work-permit-tracker) — Deadline Management Tool
+### [Work Permit Tracker](https://github.com/jidris-spec/work-permit-tracker) — Deadline Management Tool Live -> https://legal-stay-tracker.netlify.app/
 `React` `localStorage` `multilingual`
 
 Built for foreign workers in Romania managing IGI permit renewal timelines. Features a Permit Type Router, visual deadline timeline, action checklists, and Employer Mode. Deadline-critical by design — a missed date has real legal consequences.
