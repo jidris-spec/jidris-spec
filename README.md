@@ -11,7 +11,8 @@ I build workflow-focused frontend applications with practical real-world use cas
 ### MedFind — Healthcare Coordination Platform
 
 React · Firebase · Tailwind · Vite
-GitHub: https://github.com/jidris-spec/medical-finder
+link : https://prescription-finder.vercel.app/
+GitHub: https://github.com/jidris-spec/Prescription-Finder.git
 
 Multi-role platform connecting patients, pharmacies, doctors, and administrators through real-time medicine request workflows. Designed a request–claim–confirm system with live availability tracking and crowdsourced inventory signals. Pitched during Techstars Startup Weekend Bucharest.
 
